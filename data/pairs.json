@@ -1,0 +1,32 @@
+[
+  {
+    "message": "Hii",
+    "reply": "Hello bhai",
+    "score": 1
+  },
+  {
+    "message": "Hello bhai",
+    "reply": "Kaisi ho",
+    "score": 2
+  },
+  {
+    "message": "Kaisi ho",
+    "reply": "Mast ap kaise ho baccha",
+    "score": 1
+  },
+  {
+    "message": "Mast ap kaise ho baccha",
+    "reply": "Mai bhi mast apka nashta hu?",
+    "score": 1
+  },
+  {
+    "message": "Mai bhi mast apka nashta hu?",
+    "reply": "Han done apka hua baby?",
+    "score": 1
+  },
+  {
+    "message": "Mast ap kaise ho baccha",
+    "reply": "Mai bhi mast apka nashta hua?",
+    "score": 1
+  }
+]
